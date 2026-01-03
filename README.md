@@ -1,2 +1,2 @@
 # dumbtesting
-Esto es una prueba de cambair el readme en GITHUB desde VSCODE
+Esto es una prueba de cambiar el readme en GITHUB desde VSCODE
